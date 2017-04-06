@@ -1,0 +1,70 @@
+body{
+	background-color: aliceblue;
+}
+h1{
+	font-family: courgette;
+	text-align: center;
+	font-size: 4em;
+	color: deepskyblue;
+	letter-spacing: 1px;
+	margin-top: 10px;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-bottom: 10px;
+	padding-right: 5px;
+	padding-bottom: 0px;
+	padding-top: 5px;
+	padding-left: 5px;
+}
+h2{
+	font-family: cookie;
+	text-align: left;
+	font-size: 4.5em;
+	color: hotpink;
+	letter-spacing: normal;
+	margin-top: 10px;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-bottom: 10px;
+	padding-right: 5px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	padding-left: 20px;
+	position: static;
+}
+p{
+	font-family: pavanam;
+	text-align: justify;
+	font-size: 1.5em;
+	color: saddlebrown;
+	margin-top: 10px;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-bottom: 10px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-top: 0px;
+	padding-left: 5px;
+	line-height: 110%;
+}
+img{
+	display: block;
+	margin: 0 auto;
+}
+#gambar{
+	width: 20%;
+}
+#gambar1{
+	float: left;
+	width: 30%;
+}
+#gambar2{
+	float: right;
+	width: 30%;
+}
+#pesan{
+	font-style: italic;
+	color: red;
+	text-align: right;
+	border-right: 3px solid red;
+}
